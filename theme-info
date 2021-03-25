@@ -1,0 +1,38 @@
+<div class="sidebar-item item-attributes">
+    <h4>Item Information</h4>
+    <table class="table">
+        <tbody>
+            <tr>
+                <th scope="row">Released</th>
+                <td>23 mar, 2021</td>
+            </tr>
+            <tr>
+                <th scope="row">Last Update</th>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">Version</th>
+                <td>1.0.0</td>
+            </tr>
+            <tr>
+                <th scope="row">Framework</th>
+                <td>wordpress</td>
+            </tr>
+            <tr>
+                <th scope="row">Layout</th>
+                <td>Responsive</td>
+            </tr>
+            <tr>
+                <th scope="row">Browsers</th>
+                <td>IE11, Firefox, Safari, Opera, Chrome, Edge</td>
+            </tr>
+            <tr>
+                <th scope="row">Tags</th>
+                <td>
+                    <a href="#">blog</a>
+                    <a href="#">school</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
