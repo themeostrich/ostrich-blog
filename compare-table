@@ -1,1 +1,51 @@
-hello
+<div class="key-features col-2 clear">
+    <h4>Item Features</h4>
+
+    <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-mobile"></i>
+                <h2 class="entry-title">Fully Responsive</h2>
+            </div>
+            <div class="entry-content">
+                Our themes are fully responsive designed. Therefore, optimal user experience across various devices such as desktop computers, tablets, smartphones and other mobile devices is inevitable.
+            </div>
+        </div>
+    </article>
+
+     <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-mobile"></i>
+                <h2 class="entry-title">Fully Responsive</h2>
+            </div>
+            <div class="entry-content">
+                Our themes are fully responsive designed. Therefore, optimal user experience across various devices such as desktop computers, tablets, smartphones and other mobile devices is inevitable.
+            </div>
+        </div>
+    </article>
+
+    <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-mobile"></i>
+                <h2 class="entry-title">Fully Responsive</h2>
+            </div>
+            <div class="entry-content">
+                Our themes are fully responsive designed. Therefore, optimal user experience across various devices such as desktop computers, tablets, smartphones and other mobile devices is inevitable.
+            </div>
+        </div>
+    </article>
+
+    <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-mobile"></i>
+                <h2 class="entry-title">Fully Responsive</h2>
+            </div>
+            <div class="entry-content">
+                Our themes are fully responsive designed. Therefore, optimal user experience across various devices such as desktop computers, tablets, smartphones and other mobile devices is inevitable.
+            </div>
+        </div>
+    </article>
+</div>
