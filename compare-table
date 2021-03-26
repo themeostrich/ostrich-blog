@@ -1,67 +1,189 @@
-<h4>Item Features Free Vs Pro</h4>
-<table>
-    <tbody>
-        <tr>
-            <th>Features Comparison</th>
-            <th>Free</th>
-            <th>Pro</th>
-        </tr>
-
-        <tr>
-            <td><strong>Header Top Contact Info</strong></td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
-            <td><strong>Header Top Location Url</strong></td>
-            <td><i class="fa fa-close"></i> (No)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
-            <td><strong>Header Top Social Icons</strong></td>
-            <td><i class="fa fa-check"></i> (Limit : 3)</td>
-            <td><i class="fa fa-check"></i> (Unlimited)</td>
-        </tr>
-        <tr>
-            <td><strong>Section Content Type: Page/Post</strong></td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
-            <td><strong>Section Content Type: Category</strong></td>
-            <td><i class="fa fa-close"></i> (No)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
-            <td><strong>Featured Slider Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
-        </tr>
-        <tr>
-            <td><strong>Featured Services Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
-        </tr>
-        <tr>
-            <td><strong>Featured Gallery Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (6)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
-        </tr>
-        <tr>
-            <td><strong>Featured Classes Section</strong></td>
-            <td><i class="fa fa-close"></i> (No)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
-            <td><strong>Featured Team Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
-        </tr>
-        <tr>
-            <td><strong>Featured Testimonial Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
-        </tr>
-
-    </tbody>
+<h4>Features Free Vs Pro</h4>
+<table> 
+	<tbody> 
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Responsive Design</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Demo Import</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i>(2 Header)</td>
+			​
+			<td>Multiple Header</td>
+			​
+			<td><i class="fa fa-close"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Dark/Light version</td>
+			​
+			<td><i class="fa fa-Check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Social Menu</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Menu Sticky</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Custom CSS Option</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Advanced Color Option</td>
+			​
+			<td><i class="fa fa-check"></i>( Limited )</td>
+		</tr>
+		​
+		<tr>
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Theme Options</td>
+			​
+			<td><i class="fa fa-check"></i>( Limited )</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Homepage Sortable</td>
+			​
+			<td><i class="fa fa-close"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Font Option</td>
+			​
+			<td><i class="fa fa-close"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Breadcrumb</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Button to Top Scroll</td>
+			​
+			<td><i class="fa fa-check"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Footer Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Home Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Top Bar Section</td>
+			​
+			<td><i class="fa fa-close"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Banner Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Slider Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Recent Section</td>
+			​
+			<td><i class="fa fa-close"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>LifeStyle Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Fashion Section</td>
+			​
+			<td><i class="fa fa-close"></i></td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Featured Posts Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+		<tr> 
+			<td><i class="fa fa-check"></i></td>
+			​
+			<td>Blog Section</td>
+			​
+			<td><i class="fa fa-check"></i>(Limited)</td>
+		</tr>
+		​
+	</tbody>
 </table>
