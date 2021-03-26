@@ -7,59 +7,119 @@
             <th>Pro</th>
         </tr>
         <tr>
-            <td><strong>Header Top Contact Info</strong></td>
+            <td><strong>Responsive Design</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
-            <td><strong>Header Top Location Url</strong></td>
+            <td><strong>Demo Import</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Multiple Header</strong></td>
+            <td><i class="fa fa-check"></i> (2)</td>
+            <td><i class="fa fa-check"></i> (2)</td>
+        </tr>
+        <tr>
+            <td><strong>Dark/Light version</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Social Menu</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Menu Sticky</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Custom CSS Option</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Advanced Color Option</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Theme Options</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Homepage Sortable</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-close"></i> (No)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
-            <td><strong>Header Top Social Icons</strong></td>
-            <td><i class="fa fa-check"></i> (Limit : 3)</td>
-            <td><i class="fa fa-check"></i> (Unlimited)</td>
-        </tr>
-        <tr>
-            <td><strong>Section Content Type: Page/Post</strong></td>
+            <td><strong>Font Option</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
-            <td><strong>Section Content Type: Category</strong></td>
             <td><i class="fa fa-close"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Breadcrumb</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
-            <td><strong>Featured Slider Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
+            <td><strong>Button to Top Scroll</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
-            <td><strong>Featured Services Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
+            <td><strong>Footer Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Featured Gallery Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (6)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
+            <td><strong>Home Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Featured Classes Section</strong></td>
+            <td><strong>Top Bar Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-close"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Banner Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Featured Team Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
+            <td><strong>Slider Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Featured Testimonial Section (Max-Limit)</strong></td>
-            <td><i class="fa fa-check"></i> (3)</td>
-            <td><i class="fa fa-check"></i> (10)</td>
+            <td><strong>Recent Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-close"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>LifeStyle Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Fashion Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-close"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Featured Posts Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Blog Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
     </tbody>
 </table>
