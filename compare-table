@@ -54,12 +54,12 @@
         <tr>
             <td><strong>Homepage Sortable</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-close"></i> (No)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
             <td><strong>Font Option</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-close"></i> (No)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
             <td><strong>Breadcrumb</strong></td>
@@ -84,7 +84,7 @@
         <tr>
             <td><strong>Top Bar Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-close"></i> (No)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
             <td><strong>Banner Section</strong></td>
@@ -99,7 +99,7 @@
         <tr>
             <td><strong>Recent Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-close"></i> (No)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
             <td><strong>LifeStyle Section</strong></td>
@@ -109,7 +109,7 @@
         <tr>
             <td><strong>Fashion Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-close"></i> (No)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
             <td><strong>Featured Posts Section</strong></td>
