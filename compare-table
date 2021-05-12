@@ -44,12 +44,12 @@
         <tr>
             <td><strong>Advanced Color Option</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Theme Options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Homepage Sortable</strong></td>
@@ -74,12 +74,12 @@
         <tr>
             <td><strong>Footer Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Home Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Top Bar Section</strong></td>
@@ -89,12 +89,12 @@
         <tr>
             <td><strong>Banner Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Slider Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Recent Section</strong></td>
@@ -104,7 +104,7 @@
         <tr>
             <td><strong>LifeStyle Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Fashion Section</strong></td>
@@ -114,12 +114,12 @@
         <tr>
             <td><strong>Featured Posts Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Blog Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
     </tbody>
 </table>
